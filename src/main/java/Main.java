@@ -17,7 +17,6 @@ public class Main {
             sum= i+sum;
 
 
-
         }
 
         System.out.println("Total= " +sum);
